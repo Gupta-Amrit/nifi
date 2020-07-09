@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "dataModelVersion" : "3"
+  },
+  "content" : {
+    "flowSnapshot" : {
+      "flowContents" : {
+        "comments" : "",
+        "componentType" : "PROCESS_GROUP",
+        "connections" : [ ],
+        "controllerServices" : [ ],
+        "funnels" : [ ],
+        "identifier" : "53dbe604-a51b-3a3e-873f-cf7c39a83cea",
+        "inputPorts" : [ ],
+        "labels" : [ ],
+        "name" : "test",
+        "outputPorts" : [ ],
+        "position" : {
+          "x" : 294.0,
+          "y" : 67.0
+        },
+        "processGroups" : [ ],
+        "processors" : [ ],
+        "remoteProcessGroups" : [ ],
+        "variables" : { }
+      }
+    }
+  }
+}
